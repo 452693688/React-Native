@@ -1,13 +1,9 @@
 ![image](https://github.com/452693688/React-Native/blob/master/node%E4%B8%8B%E8%BD%BD1.png)
 <br />
-<title>
 [下载页1](https://nodejs.org/)
-<title/>
 <br />
 
 ![image](https://github.com/452693688/React-Native/blob/master/node%E4%B8%8B%E8%BD%BD2.png)
 <br />
-<title>
 [下载页2](https://nodejs.org/dist/v6.2.0/)
-<title/>
 <br />

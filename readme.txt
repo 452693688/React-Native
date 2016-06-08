@@ -34,5 +34,14 @@ studio 2.0或者以上
 
 五：启动安卓项目 
 	react-native run-android
+	
+六：
+将js代码导成资源 目前android版本需要手动去做。
+参考issues。相信Facebook后面的版本会马上会发布自动导资源的命令。
+实际现在也挺简单：当react-native的server启动后。
+把http://localhost:8081/index.android.bundle?platform=android这个地址的js拷出来即可。 
+链接：http://www.imooc.com/article/2646
+ 
+
 其他：
 	adb reverse tcp:8081 tcp:8081

@@ -22,8 +22,8 @@ https://facebook.github.io/react-native/docs/android-setup.html
 
 
 五：测试服务是否开启
-http://192.168.11.139:8081/index.android.bundle?platform=android&dev=true&hot=false&minify=false
-
+http://192.168.18.106:8081/index.android.bundle?platform=android&dev=true&hot=f
+alse&minify=false
 
  
 

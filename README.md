@@ -44,8 +44,8 @@ studio 2.0或者以上<br />
 
 五：启动安卓项目 <br />
 	react-native run-android<br />
-	
-六：
+	也可以从studio直接安装<br />
+六：<br />
 将js代码导成资源 目前android版本需要手动去做。<br />
 参考issues。相信Facebook后面的版本会马上会发布自动导资源的命令。<br />
 实际现在也挺简单：当react-native的server启动后。<br />
